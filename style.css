@@ -1,0 +1,53 @@
+.header {
+	background-color: black;
+	text-align: center;
+	font-family: 'Hanalei Fill', cursive;
+
+}
+
+.header h1 {
+color: white
+font-family: 'Courgette', cursive;
+}
+
+.content {
+	/*background-color: grey;*/
+	background-image: url(img/image7.jpg);
+
+}
+
+.content-2 {
+	/*background-color: grey;*/
+	background-image: url(img/images15.jpg);
+
+}
+.text-box p{
+	background-color: #b3b3ff;
+	padding: 10px;
+	font-family: 'Hanalei Fill', cursive;
+	font-family: 'Luckiest Guy', cursive;
+
+}
+div.background {
+  background: url(klematis.jpg) repeat;
+  border: 2px solid black;
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+
+
+.gv {
+	background-image: url(img/image13.jpg);
+}
